@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="gbk"?>
+<?xml version="1.0" encoding="utf-8"?>
 	<annotation>
 		<folder>cartoon</folder>
 		<filename>002675.jpg</filename>
@@ -7,8 +7,8 @@
 			<database>Unknown</database>
 		</source>
 		<size>
-			<width>448</width>
-			<height>252</height>
+			<width>180</width>
+			<height>246</height>
 			<depth>3</depth>
 		</size>
 		<segmented>0</segmented>
