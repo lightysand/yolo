@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="gbk"?>
+	<annotation>
+		<folder>cartoon</folder>
+		<filename>001592.jpg</filename>
+		<path>g:</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>350</width>
+			<height>196</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>0</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>143</xmin>
+				<ymin>105</ymin>
+				<xmax>238</xmax>
+				<ymax>187</ymax>
+			</bndbox>
+		</object>
+	</annotation>
